@@ -26,7 +26,7 @@ It shows how to make a simple login system with PHP and MySQL using an **Alumni 
 1. **Download or clone the project**
 
    ```bash
-   git clone https://github.com/<your-username>/simple-login-database-practice.git
+   git clone https://github.com/<your-username>/simple-auth-database-practice.git
    ```
 
 2. **Move the folder**
@@ -37,7 +37,7 @@ It shows how to make a simple login system with PHP and MySQL using an **Alumni 
 3. **Create these files and folders** (inside the project)
 
 ```
-simple-login-database-practice/
+simple-auth-database-practice/
  ├── connect.php
  ├── login/
  │    ├── login.php
@@ -71,7 +71,7 @@ $dbname = "alumni_tracker";
    Open your browser and go to:
 
 ```
-http://localhost/simple-login-database-practice
+http://localhost/simple-auth-database-practice
 ```
 
 ---
